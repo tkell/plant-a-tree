@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T19:30:00-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plant A Tree 🌱🌳</title><subtitle>a website about planting trees</subtitle><author><name>Thor Kell</name></author><entry><title type="html">A story about planting trees</title><link href="http://localhost:4000/documentation/a-story-about-planting-trees.html" rel="alternate" type="text/html" title="A story about planting trees" /><published>2020-04-29T00:00:00-04:00</published><updated>2020-04-29T00:00:00-04:00</updated><id>http://localhost:4000/documentation/a-story-about-planting-trees</id><content type="html" xml:base="http://localhost:4000/documentation/a-story-about-planting-trees.html">&lt;p&gt;This is a story about planting trees!&lt;/p&gt;
+
+&lt;h2 id=&quot;trees&quot;&gt;Trees&lt;/h2&gt;
+
+&lt;p&gt;More words about planting trees.&lt;/p&gt;
+
+&lt;h3 id=&quot;more-trees&quot;&gt;More Trees&lt;/h3&gt;
+
+&lt;p&gt;Concluding words about trees&lt;/p&gt;</content><author><name>Julia and Ian</name></author><category term="story" /><summary type="html">This is a story about planting trees!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-2.jpg" /></entry></feed>
