@@ -1,8 +1,9 @@
-plant a tree
+![a tree](tree.jpg "a tree")
 
-- Splash image
 
 - about:  This website is for people who want to plant trees, themselves, in honor of their birthdays, etc.  If you want to pay other people to plant trees for you, please see one of many links we will put here.
+
+- list of stories, or a Featured Story, depending on theme
 
 - list of resources, by region, e.g.:
 
