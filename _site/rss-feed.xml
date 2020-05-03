@@ -7,18 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>A Featureed Story about planting trees</title>
+				<title>A Featured Story about planting trees</title>
 				
 					<dc:creator>Julia and Ian</dc:creator>
 				
 				
-					<description>&lt;p&gt;This is a story about planting trees!&lt;/p&gt;
+					<description>&lt;p&gt;This is a story about planting trees for Julia and Ian’s wedding!&lt;/p&gt;
 
 </description>
 				
 				<pubDate>Wed, 29 Apr 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/documentation/a-story-about-planting-trees.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/a-story-about-planting-trees.html</guid>
+				<link>http://localhost:4000/stories/a-story-about-planting-trees.html</link>
+				<guid isPermaLink="true">http://localhost:4000/stories/a-story-about-planting-trees.html</guid>
 			</item>
 		
 			<item>
@@ -32,8 +32,23 @@
 </description>
 				
 				<pubDate>Tue, 28 Apr 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/documentation/resources-for-british-columbia.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/resources-for-british-columbia.html</guid>
+				<link>http://localhost:4000/resources/resources-for-british-columbia.html</link>
+				<guid isPermaLink="true">http://localhost:4000/resources/resources-for-british-columbia.html</guid>
+			</item>
+		
+			<item>
+				<title>Resources for New York State</title>
+				
+					<dc:creator>Thor</dc:creator>
+				
+				
+					<description>&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/resources/resources-for-new-york.html</link>
+				<guid isPermaLink="true">http://localhost:4000/resources/resources-for-new-york.html</guid>
 			</item>
 		
 	</channel>

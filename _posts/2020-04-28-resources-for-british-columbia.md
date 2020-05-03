@@ -2,8 +2,7 @@
 layout: post
 title: "Resources for British Columbia"
 author: "Thor"
-categories: documentation
-tags: [story]
+categories: resources
 image: tree-2.jpg
 ---
 

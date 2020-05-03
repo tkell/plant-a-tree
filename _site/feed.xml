@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T19:44:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plant A Tree 🌱🌳</title><subtitle>a website about planting trees</subtitle><author><name>Thor Kell</name></author><entry><title type="html">A Featureed Story about planting trees</title><link href="http://localhost:4000/documentation/a-story-about-planting-trees.html" rel="alternate" type="text/html" title="A Featureed Story about planting trees" /><published>2020-04-29T00:00:00-04:00</published><updated>2020-04-29T00:00:00-04:00</updated><id>http://localhost:4000/documentation/a-story-about-planting-trees</id><content type="html" xml:base="http://localhost:4000/documentation/a-story-about-planting-trees.html">&lt;p&gt;This is a story about planting trees!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-03T12:43:11-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plant A Tree 🌱🌳</title><subtitle>a website about planting trees</subtitle><author><name>Thor Kell</name></author><entry><title type="html">A Featured Story about planting trees</title><link href="http://localhost:4000/stories/a-story-about-planting-trees.html" rel="alternate" type="text/html" title="A Featured Story about planting trees" /><published>2020-04-29T00:00:00-04:00</published><updated>2020-04-29T00:00:00-04:00</updated><id>http://localhost:4000/stories/a-story-about-planting-trees</id><content type="html" xml:base="http://localhost:4000/stories/a-story-about-planting-trees.html">&lt;p&gt;This is a story about planting trees for Julia and Ian’s wedding!&lt;/p&gt;
 
 &lt;h2 id=&quot;trees&quot;&gt;Trees&lt;/h2&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;h3 id=&quot;more-trees&quot;&gt;More Trees&lt;/h3&gt;
 
-&lt;p&gt;Concluding words about trees&lt;/p&gt;</content><author><name>Julia and Ian</name></author><category term="story" /><summary type="html">This is a story about planting trees!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-1.jpg" /></entry><entry><title type="html">Resources for British Columbia</title><link href="http://localhost:4000/documentation/resources-for-british-columbia.html" rel="alternate" type="text/html" title="Resources for British Columbia" /><published>2020-04-28T00:00:00-04:00</published><updated>2020-04-28T00:00:00-04:00</updated><id>http://localhost:4000/documentation/resources-for-british-columbia</id><content type="html" xml:base="http://localhost:4000/documentation/resources-for-british-columbia.html">&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
+&lt;p&gt;Concluding words about trees&lt;/p&gt;</content><author><name>Julia and Ian</name></author><summary type="html">This is a story about planting trees for Julia and Ian’s wedding!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-3.jpg" /></entry><entry><title type="html">Resources for British Columbia</title><link href="http://localhost:4000/resources/resources-for-british-columbia.html" rel="alternate" type="text/html" title="Resources for British Columbia" /><published>2020-04-28T00:00:00-04:00</published><updated>2020-04-28T00:00:00-04:00</updated><id>http://localhost:4000/resources/resources-for-british-columbia</id><content type="html" xml:base="http://localhost:4000/resources/resources-for-british-columbia.html">&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
 
 &lt;h2 id=&quot;vancouver-island&quot;&gt;Vancouver Island&lt;/h2&gt;
 
@@ -24,4 +24,32 @@
   &lt;li&gt;Resource A&lt;/li&gt;
   &lt;li&gt;Resource B&lt;/li&gt;
   &lt;li&gt;Resource C&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Thor</name></author><category term="story" /><summary type="html">This is a page with resources for a given region!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-2.jpg" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Thor</name></author><summary type="html">This is a page with resources for a given region!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-2.jpg" /></entry><entry><title type="html">Resources for New York State</title><link href="http://localhost:4000/resources/resources-for-new-york.html" rel="alternate" type="text/html" title="Resources for New York State" /><published>2020-04-27T00:00:00-04:00</published><updated>2020-04-27T00:00:00-04:00</updated><id>http://localhost:4000/resources/resources-for-new-york</id><content type="html" xml:base="http://localhost:4000/resources/resources-for-new-york.html">&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
+
+&lt;h2 id=&quot;new-york-city&quot;&gt;New York City&lt;/h2&gt;
+
+&lt;h3 id=&quot;brookyln&quot;&gt;Brookyln&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resource 1&lt;/li&gt;
+  &lt;li&gt;Resource 2&lt;/li&gt;
+  &lt;li&gt;Resource 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;queens&quot;&gt;Queens&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resource A&lt;/li&gt;
+  &lt;li&gt;Resource B&lt;/li&gt;
+  &lt;li&gt;Resource C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;west-new-york&quot;&gt;West New York&lt;/h2&gt;
+
+&lt;h3 id=&quot;buffalo&quot;&gt;Buffalo&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resource X&lt;/li&gt;
+  &lt;li&gt;Resource Y&lt;/li&gt;
+  &lt;li&gt;Resource Z&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Thor</name></author><summary type="html">This is a page with resources for a given region!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-1.jpg" /></entry></feed>

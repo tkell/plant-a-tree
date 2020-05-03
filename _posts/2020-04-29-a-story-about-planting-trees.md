@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "A Featureed Story about planting trees"
+title: "A Featured Story about planting trees"
 author: "Julia and Ian"
-categories: documentation
-tags: [story]
-image: tree-1.jpg
+categories: stories
+image: tree-3.jpg
 ---
 
-This is a story about planting trees!
+This is a story about planting trees for Julia and Ian's wedding!
 
 ## Trees
 
