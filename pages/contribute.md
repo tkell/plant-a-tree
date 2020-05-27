@@ -5,4 +5,6 @@ title: Contribute
 
 You can contribute resources for your area via Github, etc!
 
-This page is made by, etc etc etc, and those folks can be reached by etc etc et
+Plant a Tree 🌱🌿🌳🌲 is made by Thor Kell, Julia M. Roberts, and Ian Gartshore.
+
+The best way to reach Thor is via [Github](https://github.com/tkell/)!
