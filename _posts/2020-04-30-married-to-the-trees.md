@@ -14,7 +14,7 @@ We held two weddings so that family and friends would not have to drive miles ba
 
 When all our gifts were received, we were able to send CAN$ 2,100 to Ian’s friend, Moses in the districts of Teso and Karamoja in Uganda. Moses is the founder of [Young Leaders Organization Uganda](https://www.youngleadersuganda.org). Moses organized tree planting at 90 schools and in 10 communities throughout his region. He reported the our gifts covered half the costs of his project, which planted: 200 moringa trees, 5,500 mango trees, 6,000 tamarind trees, 4,000 avocado trees, and 3,000 lemon trees!
 
-![Planting Trees](/assets/img/tree-6.jpg "Trees in Uganda")
+![Planting Trees](../assets/img/tree-6.jpg "Trees in Uganda")
 
 ## Plant Your Own Trees
 
