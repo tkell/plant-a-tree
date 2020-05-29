@@ -12,7 +12,7 @@ As my 70th birthday approached in the spring of 2019, I started dreaming up idea
 
 I was able to rent a small hall in Colwood, that is fairly close to Havenwood Park, where HAT was removing invasive species and re-planting with native species.  I sent invitations to family and friends asking for gifts of money towards purchasing trees.  On April 13th, I held a luncheon a the hall.   After our first course, I reviewed each of the seven decades of my life and handed out seven copies of [The Man Who Planted Trees by Jean  Giono](https://en.wikipedia.org/wiki/The_Man_Who_Planted_Trees), one of my favourite books.  After enjoying three kinds of birthday cake, we convoyed to Havenwood Park.
 
-![Planting Trees](/assets/img/tree-5.jpg "Planting Trees")
+![Planting Trees](../assets/img/tree-5.jpg "Planting Trees")
 
 We were met at the park by a HAT staff person and several park volunteers.  We were provided with shovels, plants in pots, and a demonstration of how to plant them.  We hiked through the park and saw several areas where the volunteers had removed invasive species such as Himalayan Blackberry and English Ivy.  We split into groups and planted our plants.  The weather was overcast and drizzling, but that was perfect for planting.  The volunteers assured us that they would see that the trees were watered, so that they would be able to survive the summer heat.  One of volunteers was so impressed by the idea of a birthday planting that he decided he would do the same for his forthcoming 75th birthday!
 
