@@ -79,7 +79,7 @@ dd {
   Links
 */
 a {
-  color: black;
+  color: darkgreen;
   text-decoration: none; }
 
 /*
@@ -387,21 +387,21 @@ th, td {
     background-color: #f1f1f1; } }
 .footer {
   background: white;
-  color: black;
+  color: darkgreen;
   text-align: center;
   min-height: 56px;
   line-height: 45px;
   width: 1100px; }
 
 .footer a {
-  color: black;
+  color: darkgreen;
   padding: 0px 10px 0px;
   text-decoration: none; }
 
 @media (max-width: 1100px) {
   .footer {
     background: white;
-    color: black;
+    color: darkgreen;
     text-align: center;
     min-height: 56px;
     line-height: 45px;
