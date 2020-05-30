@@ -1,9 +1,9 @@
 ---
 layout: misc
-title: Contribute
+title: Add Trees
 ---
 
-You can contribute resources for your area via Github, etc!
+You can add tree planting resources to this website for your area via [Github](https://github.com/tkell/plant-a-tree)!
 
 Plant a Tree 🌱🌿🌳🌲 is made by Thor Kell, Julia M. Roberts, and Ian Gartshore.
 
