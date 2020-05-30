@@ -5,4 +5,4 @@ Plant a tree!
 
 ### TODO
 - Serif font
-- Different word for "contribute"?
+- Add CONTRIBUTING.md, link in Add Trees page

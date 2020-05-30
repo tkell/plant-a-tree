@@ -3,8 +3,6 @@
 
 Plant a tree!
 
-
 ### TODO
-- Green colored links
 - Serif font
-- Different word for "contribute"?
+- Add CONTRIBUTING.md, link in Add Trees page
