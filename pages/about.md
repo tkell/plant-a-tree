@@ -11,7 +11,7 @@ Scientists estimate that [a trillion trees need to be planted to remove the exce
 
 
 We believe in:  _(Add supporting links here)_
-* Planting trees locally, to improve and connect with our local surroundings.
+* Planting trees locally, [to improve and connect with our local surroundings](https://www.treepeople.org/tree-benefits).
 * Planting indigenous trees and plants, [so they'll thrive where they are planted](https://thetyee.ca/News/2020/02/28/If-We-Plant-Trees-They-Must-Be-Native-Trees/).
 * Planting fruit and nuts trees.  Food grown close to home tastes amazing and is very nutritious.
 * Planting trees ourselves, because we connect to nature and getting our hands dirty is fun.
