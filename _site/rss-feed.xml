@@ -7,7 +7,7 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Married to the Trees</title>
+				<title>Married with Trees</title>
 				
 					<dc:creator>Julia</dc:creator>
 				
@@ -18,8 +18,8 @@
 </description>
 				
 				<pubDate>Thu, 30 Apr 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/stories/married-to-the-trees.html</link>
-				<guid isPermaLink="true">http://localhost:4000/stories/married-to-the-trees.html</guid>
+				<link>http://localhost:4000/stories/married-with-trees.html</link>
+				<guid isPermaLink="true">http://localhost:4000/stories/married-with-trees.html</guid>
 			</item>
 		
 			<item>
@@ -53,18 +53,18 @@
 			</item>
 		
 			<item>
-				<title>Resources for New York State</title>
+				<title>How to Plant and Care for Trees</title>
 				
-					<dc:creator>Thor</dc:creator>
+					<dc:creator>Julia</dc:creator>
 				
 				
-					<description>&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
+					<description>&lt;p&gt;Trees need to be planted carefully and kept watered until they are well established.&lt;/p&gt;
 
 </description>
 				
 				<pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/resources/resources-for-new-york.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/resources-for-new-york.html</guid>
+				<link>http://localhost:4000/resources/how-to-plant-trees.html</link>
+				<guid isPermaLink="true">http://localhost:4000/resources/how-to-plant-trees.html</guid>
 			</item>
 		
 	</channel>

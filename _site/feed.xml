@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-06T13:27:16-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plant A Tree 🌱🌿🌳🌲</title><subtitle>a website about planting trees</subtitle><author><name>Thor Kell</name></author><entry><title type="html">Married to the Trees</title><link href="http://localhost:4000/stories/married-to-the-trees.html" rel="alternate" type="text/html" title="Married to the Trees" /><published>2020-04-30T00:00:00-04:00</published><updated>2020-04-30T00:00:00-04:00</updated><id>http://localhost:4000/stories/married-to-the-trees</id><content type="html" xml:base="http://localhost:4000/stories/married-to-the-trees.html">&lt;h2 id=&quot;married-with-trees&quot;&gt;Married, with Trees&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-14T16:20:25-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Plant A Tree 🌱🌿🌳🌲</title><subtitle>a website about planting trees</subtitle><author><name>Thor Kell</name></author><entry><title type="html">Married with Trees</title><link href="http://localhost:4000/stories/married-with-trees.html" rel="alternate" type="text/html" title="Married with Trees" /><published>2020-04-30T00:00:00-04:00</published><updated>2020-04-30T00:00:00-04:00</updated><id>http://localhost:4000/stories/married-with-trees</id><content type="html" xml:base="http://localhost:4000/stories/married-with-trees.html">&lt;h2 id=&quot;married-with-trees&quot;&gt;Married, with Trees&lt;/h2&gt;
 &lt;p&gt;When Ian and I decided to marry in the spring of 2019, we realized that we would be combining two households and definitely did not need wedding gifts. We decided to make tree planting a part of our celebration. We asked our guests to donate toward planting food trees in Uganda and nut trees at &lt;a href=&quot;https://ourecovillage.org/&quot;&gt;O.U.R. Ecovillage&lt;/a&gt; near Shawnigan Lake, BC.&lt;/p&gt;
 
 &lt;p&gt;We held two weddings so that family and friends would not have to drive miles back and forth across BC emitting carbon dioxide all the way. Our first wedding was at my church, St. Saviour’s Pro-Cathedral, in Nelson on June 29th. Our local guests contributed food for a potluck reception, while our out of town guests contributed to trees for Uganda. Our second wedding was an outdoor wedding held at O.U.R. Ecovillage on July 7th. Our guest’s donations purchased eight nut trees that will help the village increase its food security. After the wedding ceremony, we planted a sweet chestnut tree to commemorate our wedding.&lt;/p&gt;
@@ -25,48 +25,47 @@
 
 &lt;p&gt;Some words about how this turned into this website!&lt;/p&gt;</content><author><name>Julia</name></author><summary type="html">70 Trees</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-4.jpg" /></entry><entry><title type="html">Resources for British Columbia</title><link href="http://localhost:4000/resources/resources-for-british-columbia.html" rel="alternate" type="text/html" title="Resources for British Columbia" /><published>2020-04-28T00:00:00-04:00</published><updated>2020-04-28T00:00:00-04:00</updated><id>http://localhost:4000/resources/resources-for-british-columbia</id><content type="html" xml:base="http://localhost:4000/resources/resources-for-british-columbia.html">&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
 
-&lt;h2 id=&quot;vancouver-island&quot;&gt;Vancouver Island&lt;/h2&gt;
-
-&lt;h3 id=&quot;victoria&quot;&gt;Victoria&lt;/h3&gt;
-
+&lt;h2 id=&quot;greater-vancouver&quot;&gt;Greater Vancouver&lt;/h2&gt;
+&lt;h3 id=&quot;finding-plants-&quot;&gt;Finding Plants 🌱&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Resource 1&lt;/li&gt;
-  &lt;li&gt;Resource 2&lt;/li&gt;
-  &lt;li&gt;Resource 3&lt;/li&gt;
+  &lt;li&gt;Hatzic Valley (near Mission) - &lt;a href=&quot;https://peelsnurseries.com/&quot;&gt;Peel’s Plant Nursery Ltd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Langley - &lt;a href=&quot;https://linnaeanurseries.com/&quot;&gt;Linnea Nurseries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Langley - &lt;a href=&quot;https://natsnursery.com/products/&quot;&gt;NATS Nursery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New Westminster - &lt;a href=&quot;http://tscnursery.com/index.html&quot;&gt;TSC Nursery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;nanaimo&quot;&gt;Nanaimo&lt;/h3&gt;
-
+&lt;h2 id=&quot;kootenays&quot;&gt;Kootenays&lt;/h2&gt;
+&lt;h3 id=&quot;finding-plants--1&quot;&gt;Finding Plants 🌱&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Resource A&lt;/li&gt;
-  &lt;li&gt;Resource B&lt;/li&gt;
-  &lt;li&gt;Resource C&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Thor</name></author><summary type="html">This is a page with resources for a given region!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-2.jpg" /></entry><entry><title type="html">Resources for New York State</title><link href="http://localhost:4000/resources/resources-for-new-york.html" rel="alternate" type="text/html" title="Resources for New York State" /><published>2020-04-27T00:00:00-04:00</published><updated>2020-04-27T00:00:00-04:00</updated><id>http://localhost:4000/resources/resources-for-new-york</id><content type="html" xml:base="http://localhost:4000/resources/resources-for-new-york.html">&lt;p&gt;This is a page with resources for a given region!&lt;/p&gt;
-
-&lt;h2 id=&quot;new-york-city&quot;&gt;New York City&lt;/h2&gt;
-
-&lt;h3 id=&quot;brookyln&quot;&gt;Brookyln&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Resource 1&lt;/li&gt;
-  &lt;li&gt;Resource 2&lt;/li&gt;
-  &lt;li&gt;Resource 3&lt;/li&gt;
+  &lt;li&gt;Cranbrook  - [Tipi Mountain Native Plants] (http://tmnp.tipimountain.com/)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;queens&quot;&gt;Queens&lt;/h3&gt;
-
+&lt;h2 id=&quot;northern-bc&quot;&gt;Northern BC&lt;/h2&gt;
+&lt;h3 id=&quot;finding-plants--2&quot;&gt;Finding Plants 🌱&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Resource A&lt;/li&gt;
-  &lt;li&gt;Resource B&lt;/li&gt;
-  &lt;li&gt;Resource C&lt;/li&gt;
+  &lt;li&gt;Moberley Lake - &lt;a href=&quot;https://www.twinsistersnursery.com/&quot;&gt;Twin Sisters Native Plant Nursery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;west-new-york&quot;&gt;West New York&lt;/h2&gt;
-
-&lt;h3 id=&quot;buffalo&quot;&gt;Buffalo&lt;/h3&gt;
-
+&lt;h2 id=&quot;vancouver-island--gulf-islands&quot;&gt;Vancouver Island &amp;amp; Gulf Islands&lt;/h2&gt;
+&lt;h3 id=&quot;finding-places-to-plant-️&quot;&gt;Finding Places to Plant 🗺️&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Resource X&lt;/li&gt;
-  &lt;li&gt;Resource Y&lt;/li&gt;
-  &lt;li&gt;Resource Z&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Thor</name></author><summary type="html">This is a page with resources for a given region!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-1.jpg" /></entry></feed>
+  &lt;li&gt;Campbell River - &lt;a href=&quot;https://www.greenwaystrust.ca/&quot;&gt;Greenways Land Trust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nanaimo - &lt;a href=&quot;https://www.nalt.bc.ca/&quot;&gt;Nanaimo and Area Land Trust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Victoria - &lt;a href=&quot;http://hat.bc.ca/&quot;&gt;Habitat Acquisition Trust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;finding-plants--3&quot;&gt;Finding Plants 🌱&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bowser - &lt;a href=&quot;http://www.streamsidenativeplants.com/&quot;&gt;Streamside Native Plants&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Duncan - [Dinter Nursery] (http://www.dinternursery.ca/native-british-columbia-plants.htm)&lt;/li&gt;
+  &lt;li&gt;Nanaimo - [Natural Abundance Native Plant Nursery] (https://www.nalt.bc.ca/1_10_native-plant-nursery.html)&lt;/li&gt;
+  &lt;li&gt;North Saanich - [Russell Nursery] (https://russellnursery.com/natives/)&lt;/li&gt;
+  &lt;li&gt;Saanich - [Saanich Native Plants] (http://saanichnativeplants.com/)&lt;/li&gt;
+  &lt;li&gt;Salt Spring Island - [Fraser’s Thimble Farm] (http://www.thimblefarms.com/)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Thor</name></author><summary type="html">This is a page with resources for a given region!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-2.jpg" /></entry><entry><title type="html">How to Plant and Care for Trees</title><link href="http://localhost:4000/resources/how-to-plant-trees.html" rel="alternate" type="text/html" title="How to Plant and Care for Trees" /><published>2020-04-27T00:00:00-04:00</published><updated>2020-04-27T00:00:00-04:00</updated><id>http://localhost:4000/resources/how-to-plant-trees</id><content type="html" xml:base="http://localhost:4000/resources/how-to-plant-trees.html">&lt;p&gt;Trees need to be planted carefully and kept watered until they are well established.&lt;/p&gt;
+
+&lt;p&gt;First, ask the organization that is providing your planting site, which types of trees they think would be best on the land.  Different trees thrive with different amounts of water and sunshine, and like different kinds of soil.  For example, alders and cedars like fairly wet conditions, while Douglas firs need well-drained deep soils.&lt;/p&gt;
+
+&lt;p&gt;Next, shop at your local native plant nurseries for the recommended trees.  Ask the nursery staff what season of the year is best for planting the trees.  Often trees are best planted in the fall, so they can get well rooted before the heat of summer arrives.  Also, ask how to plant and care for the trees.  Do they need mycorrhizae (fungal spores) to help them get well rooted?  Would some kind of organic fertilizer help?  How much water is needed at planting time?&lt;/p&gt;
+
+&lt;p&gt;Once the trees are planted, make sure volunteers commit to dropping by regularly to water the trees.  Depending on how much rain your locale receives, you may need to water for a year or more.&lt;/p&gt;</content><author><name>Julia</name></author><summary type="html">Trees need to be planted carefully and kept watered until they are well established.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tree-1.jpg" /></entry></feed>
