@@ -21,7 +21,7 @@ We also think that getting other people planting trees in other parts of the wor
 * Link 2
 * Link 3
 
-For resources for planting trees in your area, please see below
+For resources for planting trees in your area, please see below:
 
 * [British Columbia, Canada](/resources/resources-for-british-columbia.html)
 * [New York State, United States of America](/resources/resources-for-new-york.html)

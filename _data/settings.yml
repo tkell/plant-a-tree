@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Add Trees', folder: 'pages', file: 'contribute.html'}
+- {name: 'Plant More Trees', folder: 'pages', file: 'contribute.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/djfractal'}

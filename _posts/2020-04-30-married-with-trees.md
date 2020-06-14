@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Married to the Trees"
+title: "Married with Trees"
 author: "Julia"
 categories: stories
 image: tree-3.jpg

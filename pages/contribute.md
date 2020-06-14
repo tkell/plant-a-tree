@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Add Trees
+title: Plant More Trees
 ---
 
 You can add tree planting resources to this website for your area via [Github](https://github.com/tkell/plant-a-tree)!
