@@ -6,7 +6,7 @@ categories: resources
 image: tree-2.jpg
 ---
 
-This is a page with resources for a given region!
+🌲🌲🌲🌲🌲🌲🌲
 
 ## Greater Vancouver
 ### Finding Plants 🌱
@@ -17,7 +17,7 @@ This is a page with resources for a given region!
 
 ## Kootenays
 ### Finding Plants 🌱
-* Cranbrook  - [Tipi Mountain Native Plants] (http://tmnp.tipimountain.com/)
+* Cranbrook  - [Tipi Mountain Native Plants](http://tmnp.tipimountain.com/)
 
 ## Northern BC
 ### Finding Plants 🌱
@@ -31,10 +31,10 @@ This is a page with resources for a given region!
 
 ### Finding Plants 🌱
 * Bowser - [Streamside Native Plants](http://www.streamsidenativeplants.com/)
-* Duncan - [Dinter Nursery] (http://www.dinternursery.ca/native-british-columbia-plants.htm)
-* Nanaimo - [Natural Abundance Native Plant Nursery] (https://www.nalt.bc.ca/1_10_native-plant-nursery.html)
-* North Saanich - [Russell Nursery] (https://russellnursery.com/natives/)
-* Saanich - [Saanich Native Plants] (http://saanichnativeplants.com/)
-* Salt Spring Island - [Fraser's Thimble Farm] (http://www.thimblefarms.com/)
+* Duncan - [Dinter Nursery](http://www.dinternursery.ca/native-british-columbia-plants.htm)
+* Nanaimo - [Natural Abundance Native Plant Nursery](https://www.nalt.bc.ca/1_10_native-plant-nursery.html)
+* North Saanich - [Russell Nursery](https://russellnursery.com/natives/)
+* Saanich - [Saanich Native Plants](http://saanichnativeplants.com/)
+* Salt Spring Island - [Fraser's Thimble Farm](http://www.thimblefarms.com/)
 
 
