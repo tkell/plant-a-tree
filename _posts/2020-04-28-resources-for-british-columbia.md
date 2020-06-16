@@ -19,7 +19,7 @@ image: tree-2.jpg
 ### Finding Plants 🌱
 * Cranbrook  - [Tipi Mountain Native Plants](http://tmnp.tipimountain.com/)
 
-## Northern BC
+## Peace River
 ### Finding Plants 🌱
 * Moberley Lake - [Twin Sisters Native Plant Nursery](https://www.twinsistersnursery.com/)
 
