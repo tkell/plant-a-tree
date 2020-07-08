@@ -25,11 +25,12 @@ I'm not sure we've explained clearly how this site came to be.  How about adding
 How this Website Came to Be
 The positive and generous responses of guests at Julia's 70th birthday party and at Ian and Julia's wedding was so heartening that we felt others could use the idea of planting trees instead of receiving birthday or wedding gifts.  So Julia's son, Thor, built us this website to spread the idea of trees as gifts - gifts for the people who are celebrating and gifts for the future of humans on Earth.
 
-Then continue with the rest of the About page.  Can the text be made a bit bigger?  Please remove "(Add supporting links here.)", because we've got links on each line.  Then for LInk 1 use:  https://www.youngleadersuganda.org/fruit-tree-planting/
+Then continue with the rest of the About page.
+- Please remove "(Add supporting links here.)", because we've got links on each line.
+- Then for LInk 1 use:  https://www.youngleadersuganda.org/fruit-tree-planting/
 Link 2  http://www.rainforestprotectors.org/rainforest/Projects.aspx
 Link 3  https://www.woodlandtrust.org.uk/plant-trees/large-scale-planting/
 For now remove the New York State reference
 
 - Plant More Trees Page
-Can you make the text bigger?
 Also, please change to   " Please also add stories of your tree planting celebrations using the same link!"
