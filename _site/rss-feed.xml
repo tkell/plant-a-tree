@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Plant A Tree 🌱🌿🌳🌲</title>
+		<title>Celebrate With Trees 🌱🌿🌳🌲</title>
 		<description>a website about planting trees</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
@@ -65,6 +65,21 @@
 				<pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/resources/how-to-plant-trees.html</link>
 				<guid isPermaLink="true">http://localhost:4000/resources/how-to-plant-trees.html</guid>
+			</item>
+		
+			<item>
+				<title>Planning Your Celebration With Trees</title>
+				
+					<dc:creator>Julia</dc:creator>
+				
+				
+					<description>&lt;p&gt;Whether you’re planning a birthday, wedding or graduation celebration, once you decide to add trees to the party you will need to find a place to plant trees and some small trees to plant.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 26 Apr 2020 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/resources/planning-trees.html</link>
+				<guid isPermaLink="true">http://localhost:4000/resources/planning-trees.html</guid>
 			</item>
 		
 	</channel>

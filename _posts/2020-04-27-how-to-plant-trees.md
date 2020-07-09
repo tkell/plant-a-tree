@@ -3,7 +3,7 @@ layout: post
 title: "How to Plant and Care for Trees"
 author: "Julia"
 categories: resources
-image: tree-1.jpg
+image: tree-6.jpg
 ---
 
 Trees need to be planted carefully and kept watered until they are well established.

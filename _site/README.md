@@ -1,12 +1,12 @@
-# Plant A Tree
+# Celebrate With Trees
 
 Plant a tree!
 
 ## TODO
 - make smaller pictures, so things load faster
 - do some basic SEO??!?
+- update "post" dates to make them a bit real
 
-- new post:  "Planning" - see mom's mail for text.
 
 - Other changes
 On the home page there are some inconsistencies compared to what we have on other pages.
@@ -14,8 +14,6 @@ On the home page there are some inconsistencies compared to what we have on othe
 Please change "We believe in planting indigenous trees, locally – and have assembled a collection of resources to help you do this!" to 
 "We believe in planting local indigenous trees to restore ecosystems, or fruit and nut trees to improve local food security.  We've assembled a collection of resources to help you do this!"
 ## too wordy
-
-At the bottom of the Home Page there are buttons, "Next" and "Previous" that don't go anywhere.   Please remove them or add links if you have an idea for how to use them.
 
 
 - About Page

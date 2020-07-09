@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Plant A Tree 🌱🌿🌳🌲"
-description:	       "a website about planting trees"
+title:		     "Celebrate With Trees 🌱🌿🌳🌲"
+description:	     "a website about planting trees"
 author:              "Thor Kell"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
