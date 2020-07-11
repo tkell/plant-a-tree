@@ -10,24 +10,24 @@ image: tree-2.jpg
 
 ## Greater Vancouver
 ### Finding Plants 🌱
-* Hatzic Valley (near Mission) - [Peel's Plant Nursery Ltd](https://peelsnurseries.com/)
-* Langley - [Linnea Nurseries](https://linnaeanurseries.com/)
-* Langley - [NATS Nursery](https://natsnursery.com/products/)
-* New Westminster - [TSC Nursery](http://tscnursery.com/index.html)
+* Hatzic Valley (near Mission) - [Peel's Plant Nursery Ltd](https://peelsnurseries.com/){:target="_blank"}
+* Langley - [Linnea Nurseries](https://linnaeanurseries.com/){:target="_blank"}
+* Langley - [NATS Nursery](https://natsnursery.com/products/){:target="_blank"}
+* New Westminster - [TSC Nursery](http://tscnursery.com/index.html){:target="_blank"}
 
 ## Kootenays
 ### Finding Plants 🌱
-* Cranbrook  - [Tipi Mountain Native Plants](http://tmnp.tipimountain.com/)
+* Cranbrook  - [Tipi Mountain Native Plants](http://tmnp.tipimountain.com/){:target="_blank"}
 
 ## Peace River
 ### Finding Plants 🌱
-* Moberley Lake - [Twin Sisters Native Plant Nursery](https://www.twinsistersnursery.com/)
+* Moberley Lake - [Twin Sisters Native Plant Nursery](https://www.twinsistersnursery.com/){:target="_blank"}
 
 ## Vancouver Island & Gulf Islands
 ### Finding Places to Plant 🗺️
-* Campbell River - [Greenways Land Trust](https://www.greenwaystrust.ca/)
-* Nanaimo - [Nanaimo and Area Land Trust](https://www.nalt.bc.ca/)
-* Victoria - [Habitat Acquisition Trust](http://hat.bc.ca/)
+* Campbell River - [Greenways Land Trust](https://www.greenwaystrust.ca/){:target="_blank"}
+* Nanaimo - [Nanaimo and Area Land Trust](https://www.nalt.bc.ca/){:target="_blank"}
+* Victoria - [Habitat Acquisition Trust](http://hat.bc.ca/){:target="_blank"}
 
 ### Finding Plants 🌱
 * Bowser - [Streamside Native Plants](http://www.streamsidenativeplants.com/)
