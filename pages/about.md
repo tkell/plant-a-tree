@@ -23,4 +23,4 @@ We also think that getting other people planting trees in other parts of the wor
 
 For resources for planting trees in your area, please see below:
 
-* [British Columbia, Canada](/plant-a-tree/resources/resources-for-british-columbia.html)
+* [British Columbia, Canada](/resources/resources-for-british-columbia.html)
