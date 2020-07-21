@@ -2,11 +2,10 @@
 layout: misc
 title: Plant More Trees
 ---
+You can add tree planting resources for your area to this website by emailing us at celebratewithtrees47 αт gmail.com
 
-You can add tree planting resources for your area to this website via [Github](https://github.com/tkell/plant-a-tree){:target="_blank"}.
+Please also add stories of your tree-planting celebrations at the same email.
 
-Please also add stories of your tree-planting celebrations using the same link!
+Celebrate with Trees  🌱🌿🌳🌲 is made by Julia M. Roberts, Ian Gartshore, and Thor Kell.
 
-Celebrate with Trees  🌱🌿🌳🌲 is made by Thor Kell, Julia M. Roberts, and Ian Gartshore.
-
-The best way to reach us is via [Github](https://github.com/tkell/){:target="_blank"}.
+The best way to reach us is via celebratewithtrees47 αт gmail.com!
