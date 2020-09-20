@@ -6,7 +6,7 @@ menu:
 - {name: 'Plant More Trees', folder: 'pages', file: 'contribute.html'}
 
 social:
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'facebook', link: 'https://www.facebook.com/groups/celebratewithtrees'}
 
 # Customize site text
 pagination:
