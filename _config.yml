@@ -17,7 +17,8 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		     "Celebrate With Trees 🌱🌿🌳🌲"
 description:	     "a website about planting trees"
-author:              "Thor Kell"
+author:              "Julia M. Roberts, Ian Gartshore, and Thor Kell"
+url:                 "www.celebratewithtrees.com"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
